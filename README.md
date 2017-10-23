@@ -1,0 +1,2 @@
+# Beastify
+Mozilla Extension
